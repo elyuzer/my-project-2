@@ -11,6 +11,7 @@ function add($a, $b){
   return $a + $b;
 }
 
+//Is this method worthy or it need some changes?
 function sub($a, $b){
   return $a - $b;
 }
