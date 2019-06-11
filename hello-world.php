@@ -19,4 +19,9 @@ function sub($a, $b){
 function multiply(){
   return $a * $b;
 }
+
+function division(){
+  if($b!=0)
+  return $a/$b;
+}
 ?>
