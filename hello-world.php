@@ -16,6 +16,7 @@ function sub($a, $b){
   return $a - $b;
 }
 
+//Multiplication funtion
 function multiply(){
   return $a * $b;
 }
